@@ -1,0 +1,17 @@
+[33mcommit 6e692323765837f0f2530a408a96a6895e050d5d[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Maya <mayasyuhada981@gmail.com>
+Date:   Mon Oct 7 11:04:11 2024 +0800
+
+    Initial commit
+
+[33mcommit 06e0f683cf14d49ba7b91513fc859b01305a7007[m
+Author: Maya <mayasyuhada981@gmail.com>
+Date:   Mon Oct 7 09:53:09 2024 +0800
+
+    Install Breeze
+
+[33mcommit 04fd26d4c529422e63b95e025c2a53238919f804[m
+Author: Maya <mayasyuhada981@gmail.com>
+Date:   Mon Oct 7 09:52:03 2024 +0800
+
+    Set up a fresh Laravel app
